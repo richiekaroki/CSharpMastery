@@ -26,7 +26,7 @@ A structured 28-day journey through C# programming, building from fundamentals t
 - **Days 15-21**: Data Structures & LINQ
 - **Days 22-28**: File I/O, APIs, Final Project
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone and run any project
@@ -35,8 +35,8 @@ cd CSharpMastery/Day07_GuessNumber
 dotnet run
 ```
 
-🎯 Featured Projects
-🧮 Advanced Calculator (Day 6)
+Featured Projects
+Advanced Calculator (Day 6)
 Standard & Scientific modes
 
 Calculation history & memory functions
@@ -57,7 +57,7 @@ Method overloading examples
 
 Input validation helpers
 
-💡 Learning Path
+Learning Path
 Phase 1: Fundamentals ✅ (Days 1-7)
 Variables, Operators, Conditionals, Loops, Methods
 
@@ -67,7 +67,7 @@ Classes, Inheritance, Polymorphism, Interfaces
 Phase 3: Data & APIs 🔄 (Days 15-28)
 Collections, LINQ, File I/O, JSON, Async
 
-🛠️ Tech Stack
+Tech Stack
 C# 10.0 & .NET 6.0
 
 Object-Oriented Programming
@@ -77,7 +77,5 @@ Collections & LINQ
 File I/O & Serialization
 
 "Code every day, build something meaningful."
-
-[Progress Bar: 7/28 Days Completed](https://progress-bar.xyz/7/28?title=Days+Completed&width=400&color=00a8ff)
 
 Follow my C# learning journey!
