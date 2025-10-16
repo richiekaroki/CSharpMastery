@@ -67,14 +67,15 @@ Classes, Inheritance, Polymorphism, Interfaces
 Phase 3: Data & APIs 🔄 (Days 15-28)
 Collections, LINQ, File I/O, JSON, Async
 
-Tech Stack
-C# 10.0 & .NET 6.0
+## Tech Stack
 
-Object-Oriented Programming
-
-Collections & LINQ
-
-File I/O & Serialization
+| Technology | Description |
+|------------|-------------|
+| **C# 10.0** | Modern C# features and syntax |
+| **.NET 6.0** | Cross-platform development framework |
+| **Object-Oriented Programming** | Classes, inheritance, polymorphism |
+| **Collections & LINQ** | Data manipulation and querying |
+| **File I/O & Serialization** | Data persistence and storage |
 
 "Code every day, build something meaningful."
 
